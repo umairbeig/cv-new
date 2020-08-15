@@ -1,0 +1,144 @@
+body {
+  margin: 0;
+  font-size: 1.5em;
+  color: #40514E;
+  text-align: center;
+  font-style: normal;
+  font-family: cursive;
+}
+
+.top {
+  background-color: black;
+  position: relative;
+  padding-top: 100px;
+}
+
+.bottomcloud {
+  position: absolute;
+  left: 150px;
+  bottom: 300px;
+}
+
+.topcloud {
+  position: absolute;
+  right: 150px;
+  top: 50px;
+}
+
+.middle { padding-top: 50px;
+
+  background-color: white;
+  margin: 0 auto 0 auto;
+}
+
+.bottom {
+  margin-top: 0;
+  margin-bottom: 1px;
+  background-color:#66BFBF;
+  padding-bottom:50px;
+  padding-top: 50px;
+}
+
+.javaprog {
+  height: 250px;
+  width: 250px;
+  margin-right: 30px;
+  border-radius: 50%;
+  float: left;
+}
+
+.webdev {
+  height:250px;
+  width:250px;
+  border-radius: 50%;
+  float:right;
+  margin-left:30px;
+
+}
+
+.myphoto {
+  border-radius: 50%;
+  height: 200px;
+  width: 200px;
+
+}
+
+h1 {
+  margin-top: 0;
+  color: #66BFBF;
+  font-size: 5rem;
+  font-family: cursive;
+  font-style: normal;
+}
+
+h2 {
+  font-size: 2rem;
+  color: #66BFBF;
+  font-family: 'Sacramento', cursive;
+  font-style: italic;
+}
+
+h3 {
+  font-size: 1.5rem;
+  color: #11999E;
+  font-style: italic;
+  font-family: 'Sacramento', cursive;
+}
+
+.copyright {
+  color: black;
+  font-size: 1rem;
+  margin: 0;
+}
+
+.footer-link {
+  color: #11999E;
+  font-size: 1.25rem;
+}
+hr{
+  border:dotted grey 6px;
+  border-bottom: none;
+  margin: 10px auto;
+  width: 5%;
+}
+
+.prog {
+  color: #66BFBF;
+  font-size: 2rem;
+  line-height: 2;
+  font-weight: normal;
+}
+.skill-row{width: 50%;
+  padding-top: 15px;
+  line-height: 2;
+margin: auto;}
+.biodata{color: #40514E;
+width: 50%;
+margin: 0 auto;}
+.javades{font-size: 1.5rem;}
+.webdes{font-size: 1.5rem;}
+p{line-height: 2;}
+.btn {
+  -webkit-border-radius: 60;
+  -moz-border-radius: 60;
+  border-radius: 60px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 20px;
+  background:#30c9b5 ;
+  padding: 8px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #06151f;
+  text-decoration: none;
+}
+a{
+margin: 10px 20px;
+font-family: 'Sacramento', cursive;
+    color: #66BFBF;
+    text-decoration: none;
+}
+.contact-me{padding-top: 50px;
+padding-bottom: 50px;}
